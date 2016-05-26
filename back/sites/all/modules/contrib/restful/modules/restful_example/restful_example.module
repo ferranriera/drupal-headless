@@ -4,3 +4,4 @@
  * @file
  * Example module for the RESTful module.
  */
+function restfuentity_property_info()

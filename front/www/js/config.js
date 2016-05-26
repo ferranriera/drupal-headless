@@ -7,5 +7,5 @@ var app_config = angular.module('drupalionic.configuration', []);
 * api_endpoint could be: api/v1/
 **/
 app_config.constant('drupal_instance','http://ionic.feerb.com/');
-app_config.constant('api_endpoint','api/v1/');
+app_config.constant('api_endpoint','api/v1.0/');
 
