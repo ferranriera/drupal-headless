@@ -1,0 +1,3 @@
+[submodule "ionic"]
+	path = ionic
+	url = git@github.com:ferranriera/Ionic-Angular-Headless-Drupal-Demo.git
