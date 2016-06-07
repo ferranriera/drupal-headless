@@ -1,3 +1,6 @@
 [submodule "ionic"]
 	path = ionic
 	url = git@github.com:ferranriera/Ionic-Angular-Headless-Drupal-Demo.git
+[submodule "back/sites/all/modules/custom/restful_custom_api"]
+	path = back/sites/all/modules/custom/restful_custom_api
+	url = git@github.com:ferranriera/Drupal-RESTful-Custom-API.git
